@@ -3500,7 +3500,7 @@ segments:
     overlay: True
     subsegments:
     - [0x4233F0, c, break_free]
-    - [0x423C30, data]
+    - [0x423C30]
   - type: code
     start: 0x423C70
     vram: 0x802A9000
